@@ -1,0 +1,15 @@
+Loops
+- for - limited range
+- while - based on condition
+
+
+1. Take input from user and print multiplication table of it
+  - I/P : Enter a number : 5
+  - O/P : 5 x 1 = 5
+          5 x 2 = 10...
+
+2. Take input from user and print sum of n natural number
+  - I/P : Enter a number : 5
+  - O/P : 1 + 2 + 3 + 4 + 5 = 15
+
+
