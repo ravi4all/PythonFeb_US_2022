@@ -13,3 +13,23 @@ Loops
   - O/P : 1 + 2 + 3 + 4 + 5 = 15
 
 
+3. Check whether a given number is prime or not
+   - I/P : Enter a number : 17
+   - O/P : Prime Number
+
+   - I/P : Enter a number : 18
+   - O/P : Not Prime Number
+
+4. Print following patterns using nested for loop :
+
+*
+**
+***
+****
+*****
+
+
+
+
+
+
