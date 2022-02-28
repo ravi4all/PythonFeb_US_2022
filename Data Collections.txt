@@ -1,0 +1,40 @@
+Data Collections
+- Strings
+  - collection of text, words, para, letters...
+  - strings are immutable (that cannot be modified)
+  - strings are represented by "..", '..', """..""", '''..'''
+- List
+  - Collection of any type of data
+  - represented by [...]
+- Tuples
+  - Similar to list, but immutable
+  - represented by (...)
+- Dictionary
+  - Collection of data in key and value pair
+  - represented by {key:value, key:value...}
+- Set
+  - Unique and unordered collection of data
+  - represented by {...}
+
+
+
+
+Strings
+- Indexing and Slicing
+- Method
+
+
+Find all the indexes of a particular character using a loop and without any if else.
+You have to take character as input from user...
+
+text = "Hello world, this is Python Programming"
+
+i/p : o
+o/p : 4, 7, 25, 30
+
+
+
+
+
+
+
