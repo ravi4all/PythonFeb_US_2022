@@ -6,6 +6,7 @@ Data Collections
 - List
   - Collection of any type of data
   - represented by [...]
+  - follows LIFO - Last In First Out
 - Tuples
   - Similar to list, but immutable
   - represented by (...)
